@@ -1,0 +1,75 @@
+#
+# Calcurse keys configuration file
+#
+# In this file the keybindings used by Calcurse are defined.
+# It is generated automatically by Calcurse and is maintained
+# via the key configuration menu of the interactive user
+# interface. It should not be edited directly.
+
+generic-cancel  ESC
+generic-select  SPC
+generic-credits  @
+generic-help  ?
+generic-quit  q Q
+generic-save  s S ^S
+generic-reload  R
+generic-copy  c
+generic-paste  p ^V
+generic-change-view  TAB
+generic-prev-view  KEY_BTAB
+generic-import  i I
+generic-import  ι Ι
+generic-export  x X
+generic-export  χ Χ
+generic-goto  g G
+generic-goto  γ Γ
+generic-other-cmd  o O
+generic-other-cmd  ο Ο
+generic-config-menu  C
+generic-redraw  ^R
+generic-add-appt  ^A
+generic-add-todo  ^T
+generic-prev-day  T ^H
+generic-prev-day  Τ
+generic-next-day  t ^L
+generic-next-day  τ
+generic-prev-week  W ^K
+generic-next-week  w
+generic-next-week  ς
+generic-prev-month  M
+generic-prev-month  Μ
+generic-next-month  m
+generic-next-month  μ
+generic-prev-year  Y
+generic-prev-year  Υ
+generic-next-year  y
+generic-next-year  υ
+generic-scroll-down  ^N
+generic-scroll-up  ^P
+generic-goto-today  ^G
+generic-command  :
+move-right  l L RGT
+move-right  λ Λ
+move-left  h H LFT
+move-left  η Η
+move-down  j J DWN
+move-down  ξ Ξ 
+move-up  k K UP
+move-up  κ Κ
+start-of-week  0
+end-of-week  $
+add-item  a A
+add-item  α Α
+del-item  d D
+del-item  δ Δ
+edit-item  e E
+edit-item  ε Ε
+view-item  v V RET
+view-item  ω Ω
+pipe-item  |
+flag-item  !
+repeat  r
+edit-note  n N
+view-note  >
+raise-priority  +
+lower-priority  -
